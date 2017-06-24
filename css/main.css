@@ -1,0 +1,18 @@
+label{
+  font-size: 25px;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+div.student-form{
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+
+.content{
+  background-color: white;
+}
+
